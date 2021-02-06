@@ -3,9 +3,7 @@
 
 This project was undertaken to improve the accessiblity of an existing page.
 To enhance the accessibility of the website, semantic HTML adjustments were made alongside the reduction of redundant CSS code.
-
-
-## Some examples of changes that took place were the following:
+Some examples of changes that took place are listed below.
 
 ## Semantic HTML Adjustments:
 - Changing the <div> tags to more descriptive tags such as:
