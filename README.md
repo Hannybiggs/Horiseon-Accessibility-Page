@@ -6,7 +6,7 @@ To enhance the accessibility of the website, semantic HTML adjustments were made
 Some examples of changes that took place are listed below.
 
 ## Semantic HTML Adjustments:
-- Changing the div tags to more descriptive tags such as:
+-Changing the div tags to more descriptive tags such as:
   - nav
   - section
   - aside
