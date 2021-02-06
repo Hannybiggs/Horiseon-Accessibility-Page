@@ -23,7 +23,3 @@ Changing the div tags to more descriptive tags such as:
  
   ## Adjusted website:
  ![Adjusted website](https://github.com/Hannybiggs/Horiseon-Accessibility-Page/blob/master/Assets/01-html-css-git-homework-demo.png?raw=true "Adjusted Website")
-
-
-
-Link to deployed application:
