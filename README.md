@@ -21,7 +21,7 @@ Changing the div tags to more descriptive tags such as:
  The result of this project has rendered the website more accessible for visually impaired and also improved the navigation of the code in a general sense.
  Below you can view images of the website itself and some sample code adjustments.
  
-  Adjusted website:
+  ## Adjusted website:
  ![Adjusted website](https://github.com/Hannybiggs/Horiseon-Accessibility-Page/blob/master/Assets/01-html-css-git-homework-demo.png?raw=true "Adjusted Website")
 
 
