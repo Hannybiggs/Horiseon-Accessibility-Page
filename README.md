@@ -6,7 +6,7 @@ To enhance the accessibility of the website, semantic HTML adjustments were made
 Some examples of changes that took place are listed below.
 
 ## Semantic HTML Adjustments:
--Changing the div tags to more descriptive tags such as:
+Changing the div tags to more descriptive tags such as:
   - nav
   - section
   - aside
@@ -14,9 +14,10 @@ Some examples of changes that took place are listed below.
 -The addition of title attributes for navigation to improve accessibility.
 
  ## Semantic CSS Adjustments:
- -The condensation elements with the same CSS conditions
- -Class adjustments
+ The condensation elements with the same CSS conditions
+ Class adjustments
  
+ ## Results
  The result of this project has rendered the website more accessible for visually impaired and also improved the navigation of the code in a general sense.
  Below you can view images of the website itself and some sample code adjustments.
  
