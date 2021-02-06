@@ -14,8 +14,8 @@ Changing the div tags to more descriptive tags such as:
 -The addition of title attributes for navigation to improve accessibility.
 
  ## Semantic CSS Adjustments:
- -The condensation elements with the same CSS conditions
- -Class adjustments
+ - The condensation elements with the same CSS conditions
+ - Class adjustments
  
  ## Results
  The result of this project has rendered the website more accessible for visually impaired and also improved the navigation of the code in a general sense.
